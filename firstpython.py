@@ -1,2 +1,2 @@
 #dispay the output
-print("new pythhon file")
+print("new python file")
